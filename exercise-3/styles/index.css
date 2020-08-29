@@ -12,6 +12,7 @@ body {
 .navigation li {
     font-weight: 100;
     letter-spacing: 2px;
+    padding: 10px;
 }
 
 .navigation  li.current {
