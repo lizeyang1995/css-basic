@@ -95,6 +95,7 @@ p {
     border: 1px solid red;
     border-radius: 3px;
     padding: 14px;
+    margin: 10px;
     color: white;
     display: inline-block;
     text-decoration: none;
