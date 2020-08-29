@@ -45,6 +45,9 @@ h1 {
 #main {
     padding: 40px;
     margin: 0 auto;
+    width: 500px;
+    height: 800px;
+    overflow: auto;
     text-align: center;
 }
 
