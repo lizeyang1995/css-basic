@@ -69,3 +69,7 @@ p::first-line {
     
 }
 
+.caption a:hover {
+    color: purple;
+    text-decoration: none;
+}
