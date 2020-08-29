@@ -28,6 +28,7 @@ h2 {
     font-size: 22px;
     font-family: Georgia;
     line-height: 24px;
+    text-transform: capitalize;
     padding-bottom: 30px;
     text-align: left;
 }
