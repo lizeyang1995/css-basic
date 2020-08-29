@@ -24,6 +24,10 @@ body {
     letter-spacing: 4px;
 }
 
+.navigation .global {
+    visibility: hidden;
+}
+
 #banner {
     background-image: url("../img/background-img.jpeg");
     background-size: cover;
