@@ -49,6 +49,7 @@ p::first-line {
 .image {
     background-size: cover;
     background-position: center;
+    background-image: url(../img/background-img.jpg);
     height: 300px;
 }
 
