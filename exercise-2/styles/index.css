@@ -16,6 +16,8 @@ h1 {
     color: #fff;
     font-size: 2em;
     font-family: Georgia;
+    text-align: center;
+    text-transform: uppercase;
     width: 100%;
 }
 
