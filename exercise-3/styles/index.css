@@ -58,6 +58,7 @@ h3 {
     font-size: 14px;
     line-height: 48px;
     text-align: center;
+    border: 1px dashed red;
 }
 
 p {
