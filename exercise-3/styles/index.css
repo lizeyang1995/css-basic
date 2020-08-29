@@ -1,6 +1,8 @@
 body {
     background-color: white;
     font-family: 'Raleway', sans-serif;
+    padding: 0;
+    margin: 0;
 }
 
 .navigation ul {
